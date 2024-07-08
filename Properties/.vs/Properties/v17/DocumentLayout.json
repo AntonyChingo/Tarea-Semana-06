@@ -1,0 +1,32 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\source\\repos\\Tarea Semana 06\\Properties\\",
+  "Documents": [],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": []
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "352eb813-63f1-42aa-b752-0396d027ad6b",
+        "Display": 0,
+        "X": -4,
+        "Y": 66,
+        "Width": 1546,
+        "Height": 568,
+        "WindowState": 0
+      },
+      "DocumentGroups": []
+    }
+  ]
+}
